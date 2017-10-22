@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * 主分支 master
+ * 分支 1.0.3
  */
 public class MainActivity extends AppCompatActivity {
 
@@ -14,9 +14,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    /**
-     * 1- 首先测试分支在github上的展示形式
-     */
+    public void setView(){
+        // 分支 1.0.3
+    }
 
 
 }
