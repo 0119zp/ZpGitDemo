@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * 分支 1.0.3
+ * 分支 1.0.2
  */
 public class MainActivity extends AppCompatActivity {
 
@@ -15,8 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void setView(){
-        // 分支 1.0.3
+        // 在分支 1.0.2 创建的方法
     }
-
 
 }
